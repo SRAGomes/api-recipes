@@ -4,6 +4,6 @@
 * lime
 * salt
 ## Instructions
-Put one avocado in a bowl
-Peel the avocado
-Mash it all together (with care)
+*Put one avocado in a bowl
+*Peel the avocado
+*Mash it all together (with care)
